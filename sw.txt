@@ -6,4 +6,6 @@ printf("A=%d,B=%d",a,b);
 c=a+b;
 printf("result=%d",c);
 }
+hello suranjan
+hello tarun
 
